@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Next.js, Node.js**
+- 🌱 I’m currently learning **FastAPI ,ElysiaJS, PostgreSQL**
 
-- 💬 Ask me about **HTML, CSS, Reactjs, Javascript, C++ , Coding**
+- 💬 Ask me about **HTML, CSS, Reactjs, Next.js, Javascript, Typescript, Python, C++ , Supabase, Coding**
 
 - 📫 How to reach me **abdazhar786@gmail.com**
 
